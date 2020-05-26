@@ -1,0 +1,19 @@
+{
+  "name": "nodetypescript",
+  "version": "1.0.0",
+  "description": "Node with Express and TypeScript",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/StigNervik/NodeTypeScript.git"
+  },
+  "author": "Stig Nervik",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/StigNervik/NodeTypeScript/issues"
+  },
+  "homepage": "https://github.com/StigNervik/NodeTypeScript#readme"
+}
