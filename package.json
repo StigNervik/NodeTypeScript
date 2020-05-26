@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/StigNervik/NodeTypeScript/issues"
   },
-  "homepage": "https://github.com/StigNervik/NodeTypeScript#readme"
+  "homepage": "https://github.com/StigNervik/NodeTypeScript#readme",
+  "dependencies": {
+    "typescript": "^3.9.3"
+  }
 }
