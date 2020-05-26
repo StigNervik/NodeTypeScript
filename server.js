@@ -1,10 +1,10 @@
-"use strict";
-Object.defineProperty(exports, "__esModule", { value: true });
-var express = require("express");
+'use strict';
+Object.defineProperty(exports, '__esModule', { value: true });
+var express = require('express');
 var app = express();
 app.get('/', function (req, res) {
-    res.send('Hello Man');
+  res.send('Node Express Server written in TypeScript.');
 });
 app.listen(3000, function () {
-    console.log('Server listen on port 3000');
+  console.log('Server listen on port 3000');
 });
