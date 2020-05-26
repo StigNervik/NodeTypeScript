@@ -9,7 +9,7 @@ Build
 \$ yarn
 
 Compile TypeScript
-\$ yarn build-ts
+\$ yarn tsc
 
 Run server
 \$ node server.js
