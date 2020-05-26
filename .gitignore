@@ -1,2 +1,4 @@
 node_modules
-
+.server.ts.swp
+package-lock.json
+yarn.lock
